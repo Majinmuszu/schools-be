@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "extended_subjects",
+  "info": {
+    "singularName": "extended-subject",
+    "pluralName": "extended-subjects",
+    "displayName": "Extended_subject",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

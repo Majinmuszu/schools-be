@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "class_profiles",
+  "info": {
+    "singularName": "class-profile",
+    "pluralName": "class-profiles",
+    "displayName": "Class_profile"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
